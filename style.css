@@ -1,0 +1,14 @@
+header {
+  text-align: center;
+  color: red; 
+}
+body {
+  text-align: center;
+  background: black;
+  color: aquamarine;
+  padding: 25px;
+  font-family: sans-serif;
+}
+form {
+  color: aquamarine;
+}
